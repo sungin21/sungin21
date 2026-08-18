@@ -79,13 +79,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sungin21&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
+<img src="./profile/stats.svg" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungin21&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sungin21&theme=tokyonight&hide_border=true" width="70%" />
+<img src="./profile/top-langs.svg" width="48%" />
 
 </div>
 
