@@ -65,13 +65,20 @@
 
 <div align="center">
 
-| 🧩 Project | 💡 What it does |
-|:---:|:---|
-| 🩸 **BloodCare App** | Blood donation & donor locator platform |
-| 🍽️ **Restaurant Rater** | Restaurant review and rating platform |
-| 🧭 **Pathfinder Code** | Algorithm & pathfinding visualisation |
-| 🤖 **Media Intelligence Platform** | AI-powered media analysis |
-| 🐍 **PFC** | Python-based project |
+### 🩸 BloodCare App
+> Blood donation & donor locator platform
+
+### 🍽️ Restaurant Rater
+> Restaurant review and rating platform
+
+### 🧭 Pathfinder Code
+> Algorithm & pathfinding visualisation
+
+### 🤖 Media Intelligence Platform
+> AI-powered media analysis platform
+
+### 🐍 PFC
+> Python-based project
 
 </div>
 
@@ -101,11 +108,25 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sungin21&custom_title=Sungini%27s%20Contribution%20Graph&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sungin21&bg_color=0d1117&color=bb9af7&line=bb9af7&point=7aa2f7&area_color=7aa2f7&area=true&hide_border=true&custom_title=Sungini%27s%20Contribution%20Graph" width="95%" />
 
 </div>
 
 ---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/sungin21">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/sunginirijhwani/">
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ## 🎯 Currently Working On
 
