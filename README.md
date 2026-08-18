@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hey, I'm Sungini
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=100000&color=BB9AF7&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%91%8B+Hey%2C+I'm+Sungini" alt="Hey, I'm Sungini" />
 
 ### 💻 Full-Stack Developer • 🤖 AI Explorer • 🧠 Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Building+ideas+that+matter+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Turning+ideas+into+real+projects+%F0%9F%92%A1;Building+ideas.+Solving+problems.+Creating+impact.+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+ideas+that+matter+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Turning+ideas+into+real+projects+%F0%9F%92%A1;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
 
 <br>
 
@@ -13,10 +13,11 @@
 </a>
 
 <a href="https://www.linkedin.com/in/sunginirijhwani/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
+
 
 ---
 
@@ -108,7 +109,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sungin21&bg_color=0d1117&color=bb9af7&line=bb9af7&point=7aa2f7&area_color=7aa2f7&area=true&hide_border=true&custom_title=Sungini%27s%20Contribution%20Graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sungin21&custom_title=Sungini%27s%20Contribution%20Graph&bg_color=0D1117&color=BB9AF7&line=7AA2F7&point=FFFFFF&area_color=7AA2F7&area=true&hide_border=true" width="95%" />
 
 </div>
 
