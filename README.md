@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Sungini Rijhwani
+# 👋 Hey, I'm Sungini
 
 ### 💻 Full-Stack Developer • 🤖 AI Explorer • 🧠 Problem Solver
 
@@ -11,12 +11,10 @@
 <a href="https://github.com/sungin21">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/sunginirijhwani/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<!-- <a href="https://komarev.com/ghpvc/?username=sungin21">
-<img src="https://komarev.com/ghpvc/?username=sungin21&style=for-the-badge&color=7AA2F7" />
-</a> -->
 
 </div>
 
@@ -24,14 +22,18 @@
 
 ## 🌙 About Me
 
-```text
-💻 Full-stack developer passionate about building real-world applications
-🤖 Exploring Artificial Intelligence & Machine Learning
-🚀 Turning ideas into useful products
-🧠 Improving my problem-solving and DSA skills
-🌱 Learning something new every day
-✨ Focused on becoming a stronger software engineer
-```
+<div align="center">
+
+| | |
+|---|---|
+| 💻 | Full-stack developer passionate about building real-world applications |
+| 🤖 | Exploring Artificial Intelligence & Machine Learning |
+| 🚀 | Turning ideas into useful products |
+| 🧠 | Improving my problem-solving and DSA skills |
+| 🌱 | Learning something new every day |
+| ✨ | Focused on becoming a stronger software engineer |
+
+</div>
 
 ---
 
@@ -63,13 +65,13 @@
 
 <div align="center">
 
-|             🧩 Project             | 💡 What it does                         |
-| :--------------------------------: | :-------------------------------------- |
-|        🩸 **BloodCare App**        | Blood donation & donor locator platform |
-|      🍽️ **Restaurant Rater**      | Restaurant review and rating platform   |
-|       🧭 **Pathfinder Code**       | Algorithm & pathfinding visualisation   |
-| 🤖 **Media Intelligence Platform** | AI-powered media analysis               |
-|             🐍 **PFC**             | Python-based project                    |
+| 🧩 Project | 💡 What it does |
+|:---:|:---|
+| 🩸 **BloodCare App** | Blood donation & donor locator platform |
+| 🍽️ **Restaurant Rater** | Restaurant review and rating platform |
+| 🧭 **Pathfinder Code** | Algorithm & pathfinding visualisation |
+| 🤖 **Media Intelligence Platform** | AI-powered media analysis |
+| 🐍 **PFC** | Python-based project |
 
 </div>
 
@@ -85,18 +87,36 @@
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sungin21&theme=tokyonight&hide_border=true&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" width="70%" />
+
+</div>
+
+---
+
+## 📈 Sungini's Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sungin21&custom_title=Sungini%27s%20Contribution%20Graph&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
+
 ---
 
 ## 🎯 Currently Working On
 
 <div align="center">
 
-|          🌱 Learning         |       🚀 Building       |
-| :--------------------------: | :---------------------: |
-|     AI / Machine Learning    | Full-Stack Applications |
-| Data Structures & Algorithms |   AI-powered Projects   |
-|         System Design        |   Real-world Products   |
-|        Cloud & DevOps        |       Open Source       |
+| 🌱 Learning | 🚀 Building |
+|:---:|:---:|
+| AI / Machine Learning | Full-Stack Applications |
+| Data Structures & Algorithms | AI-powered Projects |
+| System Design | Real-world Products |
+| Cloud & DevOps | Open Source |
 
 </div>
 
@@ -120,59 +140,3 @@
 ✨ IMPROVE
    ↓
 🔁 REPEAT
-```
-
-</div>
-
----
-
-## ⚡ A Little More About Me
-
-* 🔭 Building and experimenting with new projects
-* 🌱 Learning advanced full-stack development
-* 🤖 Exploring AI-powered applications
-* 🧩 Practicing Data Structures & Algorithms
-* 💡 Turning ideas into working software
-* 🎯 Working toward becoming a strong software engineer
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sungin21&theme=tokyo-night&hide_border=true" width="95%" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/sungin21">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/sunginirijhwani/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ `Building ideas. Solving problems. Creating impact.`
-
-<br>
-
-**🚀 Always Learning • Always Building • Always Improving**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=100&section=footer" />
-
-</div>
