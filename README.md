@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Sungin21
+# 👋 Hey, I'm Sungini Rijhwani
 
 ### 💻 Full-Stack Developer • 🤖 AI Explorer • 🧠 Problem Solver
 
@@ -14,9 +14,9 @@
 <a href="https://www.linkedin.com/in/sunginirijhwani/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://komarev.com/ghpvc/?username=sungin21">
+<!-- <a href="https://komarev.com/ghpvc/?username=sungin21">
 <img src="https://komarev.com/ghpvc/?username=sungin21&style=for-the-badge&color=7AA2F7" />
-</a>
+</a> -->
 
 </div>
 
